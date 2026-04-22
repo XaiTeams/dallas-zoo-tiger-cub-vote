@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/baby-tiger", "destination": "/index.html" }
+  ]
+}
